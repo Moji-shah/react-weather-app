@@ -1,20 +1,20 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
+import Weather from "./Weather";
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-        Weather App
-        <button className="btn btn-primary">search</button>
+        <Weather />
         <footer>
-          This project was coded by Mozhgan Shahmohammadi and is{" "}
+          Coded by Mozhgan Shahmohammadi and is{" "}
           <a
             href="https://github.com/Moji-shah/react-weather-app"
             target="_blank"
           >
             {" "}
-            open-sourced{" "}
+            open-sourced
           </a>
         </footer>
       </div>
