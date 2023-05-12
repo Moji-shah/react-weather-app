@@ -15,10 +15,10 @@ export default function App() {
             rel="noopener noreferrer"
           >
             {" "}
-            open-sourced{" "}
-          </a>{" "}
-        </footer>{" "}
-      </div>{" "}
+            open-sourced
+          </a>
+        </footer>
+      </div>
     </div>
   );
 }
