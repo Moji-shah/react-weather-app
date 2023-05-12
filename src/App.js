@@ -6,18 +6,19 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather deafultCity="New York/>
+        <Weather defaultCity="New York" />
         <footer>
-          Coded by Mozhgan Shahmohammadi and is{" "}
+          Coded by Mozhgan Shahmohammadi and is
           <a
             href="https://github.com/Moji-shah/react-weather-app"
             target="_blank"
+            rel="noopener noreferrer"
           >
             {" "}
-            open-sourced
-          </a>
-        </footer>
-      </div>
+            open-sourced{" "}
+          </a>{" "}
+        </footer>{" "}
+      </div>{" "}
     </div>
   );
 }
