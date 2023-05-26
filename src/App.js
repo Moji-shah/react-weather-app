@@ -19,7 +19,11 @@ export default function App() {
             open-sourced
           </a>{" "}
           and hosted on{" "}
-          <a href="https://646ce2f86795020008a3d5fe--chipper-meringue-10e1d4.netlify.app/">
+          <a
+            href="https://646ce2f86795020008a3d5fe--chipper-meringue-10e1d4.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Netlify
           </a>
         </footer>
