@@ -7,6 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Weather defaultCity="New York" />
+
         <footer>
           Coded by Mozhgan Shahmohammadi and is
           <a
@@ -16,6 +17,10 @@ export default function App() {
           >
             {" "}
             open-sourced
+          </a>{" "}
+          and hosted on{" "}
+          <a href="https://646ce2f86795020008a3d5fe--chipper-meringue-10e1d4.netlify.app/">
+            Netlify
           </a>
         </footer>
       </div>
