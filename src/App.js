@@ -20,7 +20,7 @@ export default function App() {
           </a>{" "}
           and hosted on{" "}
           <a
-            href="https://646ce2f86795020008a3d5fe--chipper-meringue-10e1d4.netlify.app/"
+            href="https://chipper-meringue-10e1d4.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
