@@ -6,12 +6,12 @@
   margin-left: 5px;
 }
 .WeatherForecast-icon img {
-  width:40px;
+  width: 40px;
   height: 40px;
 }
-.daily-forecast{
-  border: 1px solid rgb(27, 43, 122);
+.daily-forecast {
+  border: 1px solid rgb(115, 115, 119);
   margin-right: 3px;
   border-radius: 4px;
- padding: 15px;
+  padding: 15px;
 }
