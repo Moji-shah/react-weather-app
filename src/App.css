@@ -1,10 +1,11 @@
 .App {
   font-family: "EB Garamond", serif;
-  max-width: 700px;
+  max-width: 800px;
   margin: 100px auto;
 }
 .App footer {
   font-size: 14px;
   margin: 7px 0;
   text-align: center;
+  color: beige;
 }

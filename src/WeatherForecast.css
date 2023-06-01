@@ -2,7 +2,7 @@
   text-align: center;
 }
 .WeatherForecast-temperature-min {
-  opacity: 0.6;
+  opacity: 0.8;
   margin-left: 5px;
 }
 .WeatherForecast-icon img {
@@ -10,8 +10,10 @@
   height: 40px;
 }
 .daily-forecast {
-  border: 1px solid rgb(115, 115, 119);
+  border: 1px solid rgb(12, 12, 206);
   margin-right: 3px;
   border-radius: 4px;
   padding: 15px;
+  font-size: 18px;
+  font-weight: bold;
 }
