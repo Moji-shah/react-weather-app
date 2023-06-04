@@ -53,13 +53,13 @@ export default function Weather(props) {
               <input
                 type="submit"
                 placeholder="search"
-                className="btn btn-primary w-100"
+                className="btn btn-primary w-100 btn-responsive"
               />
             </div>
           </div>
         </form>
         <Weatherinfo data={weatherData} />
-        <WeatherForecast icon={weatherData} coordinates={weatherData.coord}/>
+        <WeatherForecast icon={weatherData} coordinates={weatherData.coord} />
       </div>
     );
   } else {
